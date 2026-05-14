@@ -25,11 +25,13 @@ cd sistema_usuarios
 python -m venv venv
 source venv/Scripts/activate    # Git Bash en Windows
 ```
+![Creación y activación del entorno virtual](images/entorno_virtual.png)
 
 ### 3. Instalar dependencias
 ```bash
 pip install -r requirements.txt
 ```
+![Contenido del archivo requirements.txt](images/cat_requirements.png)
 
 ### 4. Configurar variables de entorno
 ```bash
@@ -41,6 +43,8 @@ cp .env.example .env
 ```bash
 python main.py
 ```
+![Menú principal del sistema](images/menu_principal.png)
+
 
 ---
 ```bash
