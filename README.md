@@ -157,7 +157,7 @@ Ver `requirements.txt`. Principal dependencia: `python-dotenv`.
 
 ---
 ## VIDEO EXPLICACIÓN
- [Youtube]()
+ [Youtube](https://youtu.be/ksVvf1FKjFU)
 
 ## Autor
 
